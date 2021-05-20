@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1550767546 source:c:\users\nanaosei\documents\c++\assg_4\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<cstdlib>
+	<iomanip>
+	<algorithm>
+	<array>
+

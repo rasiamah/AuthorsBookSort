@@ -1,0 +1,33 @@
+The Name of the Rose             Umberto Eco            1983           Italian        Mystery               12000
+The Girl with the Dragon Tattoo  Stieg Larsson          2005           Swedish        Thriller              7049
+The Brothers Karamazov           Fyodor Dostoevsky      1880           Russian        Fiction               6948
+The Lies of Locke Lamora         Scott Lynch            2006           English        Fantasy               6676
+Norwegian Wood                   Haruki Murakami        2000           Japanese       Fiction               6000
+War and Peace                    Leo Tolstoy            1899           Russian        Historical-Fiction    5890
+The Name of the Wind             Patrick Rothfuss       2007           English        Fantasy               4920
+Brave New World                  Aldous Huxley          1932           English        Science-Fiction       4677
+Baudolino                        Umberto Eco            2000           Italian        Historical-Fiction    2134
+Demonic Males                    Richard Wrangham       1997           English        Non-Fiction           1209
+The Last of the Wine             Mary Renault           1956           English        Historical-Fiction    579
+The Name of the Rose             Umberto Eco            1983           Italian        Mystery               12000
+The Girl with the Dragon Tattoo  Stieg Larsson          2005           Swedish        Thriller              7049
+The Brothers Karamazov           Fyodor Dostoevsky      1880           Russian        Fiction               6948
+The Lies of Locke Lamora         Scott Lynch            2006           English        Fantasy               6676
+Norwegian Wood                   Haruki Murakami        2000           Japanese       Fiction               6000
+War and Peace                    Leo Tolstoy            1899           Russian        Historical-Fiction    5890
+The Name of the Wind             Patrick Rothfuss       2007           English        Fantasy               4920
+Brave New World                  Aldous Huxley          1932           English        Science-Fiction       4677
+Baudolino                        Umberto Eco            2000           Italian        Historical-Fiction    2134
+Demonic Males                    Richard Wrangham       1997           English        Non-Fiction           1209
+The Last of the Wine             Mary Renault           1956           English        Historical-Fiction    579
+The Name of the Rose             Umberto Eco            1983           Italian        Mystery               12000
+The Girl with the Dragon Tattoo  Stieg Larsson          2005           Swedish        Thriller              7049
+The Brothers Karamazov           Fyodor Dostoevsky      1880           Russian        Fiction               6948
+The Lies of Locke Lamora         Scott Lynch            2006           English        Fantasy               6676
+Norwegian Wood                   Haruki Murakami        2000           Japanese       Fiction               6000
+War and Peace                    Leo Tolstoy            1899           Russian        Historical-Fiction    5890
+The Name of the Wind             Patrick Rothfuss       2007           English        Fantasy               4920
+Brave New World                  Aldous Huxley          1932           English        Science-Fiction       4677
+Baudolino                        Umberto Eco            2000           Italian        Historical-Fiction    2134
+Demonic Males                    Richard Wrangham       1997           English        Non-Fiction           1209
+The Last of the Wine             Mary Renault           1956           English        Historical-Fiction    579
